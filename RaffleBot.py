@@ -17,7 +17,7 @@ DURATION = 4 # Seconds
 
 ## API CONFIG ##
 
-API_KEY = "2d9cfb1cfamsh05cacf514cdc739p169f72jsn87e38a61452d"
+API_KEY = "" # Enter RapidAPI Shazam Key
 
 ## END API CONFIG ##
 
